@@ -75,8 +75,8 @@ document.addEventListener("DOMContentLoaded", () => {
             ],
 
             images: [
-                "assets/s.png",
-                "assets/p.png",
+                "assets/S.png",
+                "assets/P.png",
                 "assets/h.png"
             ],
 
@@ -109,7 +109,7 @@ document.addEventListener("DOMContentLoaded", () => {
             ],
 
             images: [
-                "assets/f.png",
+                "assets/F.png",
                 "assets/c.png",
                 "assets/o.png"
             ],
